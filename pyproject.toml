@@ -3,6 +3,8 @@ name = "emailnotify"
 version = "0.1.0"
 description = "Email notification daemon"
 authors = ["kanashimia"]
+readme = "README.rst"
+homepage = "https://github.com/kanashimia/emailnotify"
 license = "MIT"
 
 [tool.poetry.dependencies]
