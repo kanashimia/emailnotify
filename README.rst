@@ -3,15 +3,6 @@ emailnotify
 emailnotify is a program, that displays email message as a push potification,
 upon its arrival, using imap idle.
 
-set password
--------------------------------------------------------------------------------
-First you must prompt for password::
-
-    python -m emailnotify -p
-
-emailnotify saves password in the credential store,
-so you mush have it installed (mostly for systemd/LinuX users).
-
 run
 -------------------------------------------------------------------------------
 Then must first configure ``readme_renderer`` either by placing config
